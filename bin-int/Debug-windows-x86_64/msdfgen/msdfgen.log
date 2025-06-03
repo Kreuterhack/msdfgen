@@ -24,10 +24,10 @@ D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdfgen\core\save-fl32.cpp(13,1
           D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdfgen\core\save-fl32.cpp(32,15):
           Siehe Verweis auf die gerade kompilierte Instanziierung "bool msdfgen::saveFl32<1>(const msdfgen::BitmapConstRef<float,1> &,const char *)" der Funktions-Vorlage.
   
-  save-tiff.cpp
-  sdf-error-estimation.cpp
 D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdfgen\core\export-svg.cpp(52,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdfgen\core\export-svg.cpp(66,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  save-tiff.cpp
+  sdf-error-estimation.cpp
   shape-description.cpp
   import-font.cpp
 D:\dev\C++\Oregano\Oregano\vendor\msdf-atlas-gen\msdfgen\core\save-rgba.cpp(14,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
